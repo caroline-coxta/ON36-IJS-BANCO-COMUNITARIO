@@ -41,4 +41,5 @@ CREATE TABLE IF NOT EXISTS `reprograma`.`linhas_de_credito` (
   `numero_parcelas` INT NOT NULL,
   `juros` FLOAT NOT NULL,
 
-   
+
+![diagrama](https://github.com/user-attachments/assets/b48f0ede-bb5f-4a04-bde6-826b46a25b23)
